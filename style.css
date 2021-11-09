@@ -16,7 +16,7 @@ body{
 }
 
 .img_background{
-    background-image: url(./images/pattern-background-mobile.svg);
+    background-image: url(/images/pattern-background-mobile.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
